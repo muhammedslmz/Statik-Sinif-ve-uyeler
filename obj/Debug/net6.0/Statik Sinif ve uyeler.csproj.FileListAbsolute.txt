@@ -1,0 +1,15 @@
+C:\Users\GOLD\Desktop\Codes\Pratikler\Statik Sinif ve uyeler\bin\Debug\net6.0\Statik Sinif ve uyeler.exe
+C:\Users\GOLD\Desktop\Codes\Pratikler\Statik Sinif ve uyeler\bin\Debug\net6.0\Statik Sinif ve uyeler.deps.json
+C:\Users\GOLD\Desktop\Codes\Pratikler\Statik Sinif ve uyeler\bin\Debug\net6.0\Statik Sinif ve uyeler.runtimeconfig.json
+C:\Users\GOLD\Desktop\Codes\Pratikler\Statik Sinif ve uyeler\bin\Debug\net6.0\Statik Sinif ve uyeler.dll
+C:\Users\GOLD\Desktop\Codes\Pratikler\Statik Sinif ve uyeler\bin\Debug\net6.0\Statik Sinif ve uyeler.pdb
+C:\Users\GOLD\Desktop\Codes\Pratikler\Statik Sinif ve uyeler\obj\Debug\net6.0\Statik Sinif ve uyeler.csproj.AssemblyReference.cache
+C:\Users\GOLD\Desktop\Codes\Pratikler\Statik Sinif ve uyeler\obj\Debug\net6.0\Statik Sinif ve uyeler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GOLD\Desktop\Codes\Pratikler\Statik Sinif ve uyeler\obj\Debug\net6.0\Statik Sinif ve uyeler.AssemblyInfoInputs.cache
+C:\Users\GOLD\Desktop\Codes\Pratikler\Statik Sinif ve uyeler\obj\Debug\net6.0\Statik Sinif ve uyeler.AssemblyInfo.cs
+C:\Users\GOLD\Desktop\Codes\Pratikler\Statik Sinif ve uyeler\obj\Debug\net6.0\Statik Sinif ve uyeler.csproj.CoreCompileInputs.cache
+C:\Users\GOLD\Desktop\Codes\Pratikler\Statik Sinif ve uyeler\obj\Debug\net6.0\Statik Sinif ve uyeler.dll
+C:\Users\GOLD\Desktop\Codes\Pratikler\Statik Sinif ve uyeler\obj\Debug\net6.0\refint\Statik Sinif ve uyeler.dll
+C:\Users\GOLD\Desktop\Codes\Pratikler\Statik Sinif ve uyeler\obj\Debug\net6.0\Statik Sinif ve uyeler.pdb
+C:\Users\GOLD\Desktop\Codes\Pratikler\Statik Sinif ve uyeler\obj\Debug\net6.0\Statik Sinif ve uyeler.genruntimeconfig.cache
+C:\Users\GOLD\Desktop\Codes\Pratikler\Statik Sinif ve uyeler\obj\Debug\net6.0\ref\Statik Sinif ve uyeler.dll
